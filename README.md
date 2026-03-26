@@ -11,8 +11,6 @@ It is designed to support people who may benefit from a narrower visual focus, i
   
 A simple JavaScript bookmarklet that helps reduce visual clutter on any webpage by limiting what you see to a movable spotlight area.
 
-It is designed to support people who may benefit from a narrower visual focus, including people with ADHD, dyslexia, autism, sensory processing differences, and other neurodivergent profiles. It can also be useful for reading fatigue, concentration, accessibility, and distraction reduction in general.
-
 ## What it does
 
 Spotlight Focus Tool places a movable visual mask over the current webpage so you can focus on either:
@@ -57,21 +55,6 @@ Then:
 1. Drag the **Spotlight** button to your bookmarks bar
 2. Open any webpage
 3. Click the bookmarklet to activate the tool
-
-### Option 2: Use the JavaScript directly
-
-Create a new browser bookmark and paste the bookmarklet code from `weblight.html` into the bookmark URL/location field.
-
-## Controls
-
-- **Mouse** → move the spotlight
-- **C** → circle mode
-- **L** → line mode
-- **Left / Right Arrow** → smaller / bigger
-- **Shift + Left / Right Arrow** → lighter / darker background dimming
-- **D** → toggle dark mode
-- **S** → toggle spotlight on/off
-- **Esc** → exit
 
 ## Who it may help
 
