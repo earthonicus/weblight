@@ -50,7 +50,7 @@ This tool offers a lightweight way to create a more restricted focus of attentio
 
 ### Option 1: Use the installer page
 
-Open the included `weblight.html` file in a browser.
+[**Open the Spotlight installer**](https://earthonicus.github.io/weblight/weblight.html)
 
 Then:
 
@@ -131,24 +131,6 @@ Especially useful areas for support:
 - better keyboard support
 - packaging as an extension
 
-## GitHub description
-
-A simple bookmarklet that adds a movable spotlight or reading line to any webpage to reduce distraction and support focus, accessibility, ADHD, dyslexia, and neurodivergent browsing.
-
-## Suggested GitHub topics
-
-`accessibility` `adhd` `dyslexia` `neurodivergent` `autism` `focus-tool` `reading-tool` `bookmarklet` `javascript` `a11y` `sensory-friendly` `distraction-free` `assistive-technology` `inclusive-design` `visual-focus`
-
-## Licence
-
-Choose the licence that best matches your goal:
-
-- **MIT** if you want maximum reuse and simplicity
-- **Apache-2.0** if you want an explicit patent grant as well
-- **GPL-3.0** if you want derivatives to stay open source
-
-For a small accessibility utility intended to spread widely, **MIT** is usually the simplest choice.
-
 ## Support
 
 If you find this useful, consider:
@@ -157,11 +139,3 @@ If you find this useful, consider:
 - sharing it with accessibility communities
 - suggesting improvements
 - opening issues for bugs or ideas
-
-## Install
-
-This project uses a bookmarklet, so the installer works best from its own page rather than directly inside GitHub’s README renderer.
-
-[**Open the Spotlight installer**](./weblight.html)
-
-Then drag the **Spotlight** button to your bookmarks bar and click it on any webpage.
