@@ -1,4 +1,13 @@
 # Spotlight Focus Tool
+A simple JavaScript bookmarklet that helps reduce visual clutter on any webpage by limiting what you see to a movable spotlight area.
+
+## Install in one step
+
+[**Open the Spotlight installer**](https://earthonicus.github.io/weblight/weblight.html)
+
+Then drag the **Spotlight** button to your bookmarks bar and click it on any webpage.
+
+It is designed to support people who may benefit from a narrower visual focus, including people with ADHD, dyslexia, autism, sensory processing differences, and other neurodivergent profiles. It can also be useful for reading fatigue, concentration, accessibility, and distraction reduction in general.
   
 A simple JavaScript bookmarklet that helps reduce visual clutter on any webpage by limiting what you see to a movable spotlight area.
 
