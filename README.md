@@ -1,47 +1,67 @@
 # Spotlight Focus Tool
-A simple JavaScript bookmarklet that helps reduce visual clutter on any webpage by limiting what you see to a movable spotlight area.
 
-## Install in one step
+Screen mask, reading ruler, and spotlight bookmarklet for distraction-free reading on any webpage.
+
+A lightweight accessibility bookmarklet for reducing visual clutter with a movable spotlight, reading line, and dimmed screen mask overlay. Works from the bookmarks bar with no extension, no account, and no install package.
+
+Useful for ADHD, dyslexia, autism, neurodivergent browsing, sensory processing differences, visual overstimulation, reading fatigue, focus support, study support, and accessibility use cases.
 
 [**Open the Spotlight installer**](https://earthonicus.github.io/weblight/weblight.html)
 
 Then drag the **Spotlight** button to your bookmarks bar and click it on any webpage.
 
-It is designed to support people who may benefit from a narrower visual focus, including people with ADHD, dyslexia, autism, sensory processing differences, and other neurodivergent profiles. It can also be useful for reading fatigue, concentration, accessibility, and distraction reduction in general.
-  
-A simple JavaScript bookmarklet that helps reduce visual clutter on any webpage by limiting what you see to a movable spotlight area.
-
 ## What it does
 
-Spotlight Focus Tool places a movable visual mask over the current webpage so you can focus on either:
+Spotlight Focus Tool adds a movable visual overlay to the current webpage so you can focus on either:
 
 - a circular spotlight around the cursor
 - a horizontal reading line across the page
 
-You can also:
+The current version also supports:
 
-- resize the focus area
-- increase or decrease the dimming outside the focus area
-- toggle a simple dark mode
-- turn the spotlight on or off without leaving the page
-- exit instantly with a keypress
+- resizing the spotlight or reading line
+- adjusting the background dimness
+- toggling a simple dark mode
+- turning the overlay on or off without exiting
+- freezing the spotlight position
+- instant exit with the Escape key
+- an on-screen help panel showing controls
 
 ## Why this exists
 
-Many webpages are visually noisy. Sidebars, ads, popups, banners, animations, and dense layouts can make reading or concentrating harder than it needs to be.
+Many websites are visually noisy. Ads, banners, sidebars, popups, animations, and dense layouts can make reading and concentration harder than they need to be.
 
-This tool offers a lightweight way to create a more restricted focus of attention on top of any webpage, without needing a browser extension or account.
+Spotlight Focus Tool provides a fast, lightweight way to create a narrower visual focus on top of any webpage without installing a browser extension or signing up for anything.
+
+## Why this project is different
+
+Many similar tools are packaged as full browser extensions.
+
+Spotlight Focus Tool is intentionally simple:
+
+- bookmarklet-based
+- no account required
+- no install package required
+- easy to try in seconds
+- easy to fork and modify
+- works directly on top of existing webpages
+
+This makes it useful for quick accessibility support, personal experimentation, demonstrations, and lightweight distraction reduction.
 
 ## Features
 
-- Bookmarklet-based, no install package required
-- Works on top of existing webpages
-- Circle focus mode
-- Line focus mode for reading
+- Bookmarklet-based focus tool
+- Screen mask overlay
+- Circle spotlight mode
+- Line reading ruler mode
 - Adjustable spotlight size
+- Adjustable line height
 - Adjustable background dimness
-- Optional dark mode
-- Quick keyboard controls
+- Toggleable dark mode
+- Freeze position mode
+- Toggle overlay on or off
+- Keyboard-driven controls
+- On-screen help box
 - Easy to share and fork
 
 ## Installation
@@ -56,63 +76,102 @@ Then:
 2. Open any webpage
 3. Click the bookmarklet to activate the tool
 
+## Controls
+
+- **Mouse** → move the spotlight
+- **C** → switch to circle mode
+- **L** → switch to line mode
+- **Left / Right Arrow** → resize spotlight or line height
+- **Shift + Left / Right Arrow** → decrease or increase background dimness
+- **D** → toggle dark mode
+- **S** → toggle spotlight on or off
+- **F** → freeze or unfreeze spotlight position
+- **Esc** → exit and remove the tool from the page
+
+## How it works
+
+When activated, the bookmarklet injects a lightweight overlay into the current webpage.
+
+In circle mode, the spotlight follows the cursor. In line mode, the tool creates a horizontal reading band that tracks vertical cursor position. The rest of the page is dimmed while the focused area remains visible. A simple dark-style override can also be toggled for a darker reading environment.
+
 ## Who it may help
 
-This project may be useful for:
+This project may be useful for people who want support with:
 
 - ADHD
-- Dyslexia
-- Autism
-- Sensory processing differences
-- Visual overstimulation
-- Reading fatigue
-- Focus and concentration support
-- Accessibility use cases
-- Study support
-- Deep reading on cluttered websites
+- dyslexia
+- autism
+- neurodivergent browsing
+- sensory processing differences
+- visual overstimulation
+- reading fatigue
+- focus and concentration
+- accessibility support
+- study support
+- deep reading on cluttered websites
 
-This is not a medical device or therapeutic claim. It is a simple visual focus aid that some people may find helpful.
+This is not a medical device and does not make therapeutic claims. It is a simple visual focus aid that some people may find helpful.
 
 ## Use cases
 
-- Reading articles without distraction
-- Following text line by line
-- Reducing visual overwhelm on busy websites
-- Supporting study sessions
-- Helping keep attention on one part of the screen
-- Demoing accessibility concepts quickly via a bookmarklet
+- reading articles with less distraction
+- following text line by line
+- reducing visual overwhelm on busy websites
+- supporting study sessions
+- keeping attention on one part of the screen
+- demonstrating accessibility ideas quickly via a bookmarklet
+
+## Privacy
+
+Spotlight Focus Tool runs locally in the browser as a bookmarklet.
+
+It does not require an account, backend service, or cloud connection.
+
+## Current limitations
+
+- best suited to desktop browser use
+- requires access to the bookmarks bar
+- some webpages with unusual layouts or browser restrictions may behave differently
+- the dark mode is intentionally simple and may not perfectly restyle every site
 
 ## Project goals
 
-- Keep it simple
-- Keep it lightweight
-- Make it easy for anyone to try
-- Support accessibility and neurodivergent-friendly browsing
-- Encourage community improvements
+- keep it simple
+- keep it lightweight
+- make it easy for anyone to try
+- support accessibility and neurodivergent-friendly browsing
+- encourage community improvements
 
-## Ideas for future improvements
+## Roadmap
 
-- Adjustable colour overlays
-- Reading ruler mode variations
-- Remember saved settings
-- Touchscreen support
-- Browser extension version
-- Accessibility presets
-- Better mobile support
-- High contrast themes
+Possible future improvements:
+
+- adjustable colour overlays
+- more reading ruler variations
+- saved settings
+- better touch support
+- improved mobile behaviour
+- accessibility presets
+- high contrast themes
+- browser extension version
 
 ## Contributing
 
 Contributions, improvements, and accessibility feedback are welcome.
 
-Especially useful areas for support:
+Especially helpful areas include:
 
 - accessibility testing
 - neurodivergent user feedback
 - browser compatibility fixes
 - UI improvements
 - better keyboard support
-- packaging as an extension
+- mobile and touch support
+- extension packaging
+
+## Similar tools
+
+Other free tools in this space include **Screen Mask**, **Reading Ruler / ReadingLine**, **FocusFlow**, **Helperbird**, and **Focus Ex**. Most are browser extensions rather than lightweight bookmarklets.
 
 ## Support
 
@@ -122,5 +181,3 @@ If you find this useful, consider:
 - sharing it with accessibility communities
 - suggesting improvements
 - opening issues for bugs or ideas
-
-Other free tools in this space include Screen Mask, Reading Ruler / ReadingLine, FocusFlow, Helperbird, and Focus Ex. Most are browser extensions rather than lightweight bookmarklets.
