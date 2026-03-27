@@ -10,6 +10,20 @@ Useful for ADHD, dyslexia, autism, neurodivergent browsing, sensory processing d
 
 Then drag the **Spotlight** button to your bookmarks bar and click it on any webpage.
 
+## Screenshots
+
+### Installer page
+
+![Spotlight Focus Tool installer page](assets/spotlight-installer.png)
+
+### Example result on a webpage
+
+![Spotlight Focus Tool on GitHub README with dimmed overlay and controls](assets/spotlight-example-full.png)
+
+### Example spotlight mode
+
+![Spotlight Focus Tool circular spotlight mode example](assets/spotlight-example-circle.png)
+
 ## What it does
 
 Spotlight Focus Tool adds a movable visual overlay to the current webpage so you can focus on either:
