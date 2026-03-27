@@ -14,15 +14,15 @@ Then drag the **Spotlight** button to your bookmarks bar and click it on any web
 
 ### Installer page
 
-![Spotlight Focus Tool installer page](assets/spotlight-installer.png)
+![Spotlight Focus Tool installer page](spotlight-installer.png)
 
 ### Example result on a webpage
 
-![Spotlight Focus Tool on GitHub README with dimmed overlay and controls](assets/spotlight-example-full.png)
+![Spotlight Focus Tool on GitHub README with dimmed overlay and controls](spotlight-example-full.png)
 
 ### Example spotlight mode
 
-![Spotlight Focus Tool circular spotlight mode example](assets/spotlight-example-circle.png)
+![Spotlight Focus Tool circular spotlight mode example](spotlight-example-circle.png)
 
 ## What it does
 
