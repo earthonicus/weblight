@@ -122,3 +122,5 @@ If you find this useful, consider:
 - sharing it with accessibility communities
 - suggesting improvements
 - opening issues for bugs or ideas
+
+Other free tools in this space include Screen Mask, Reading Ruler / ReadingLine, FocusFlow, Helperbird, and Focus Ex. Most are browser extensions rather than lightweight bookmarklets.
