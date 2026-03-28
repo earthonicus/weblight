@@ -24,6 +24,23 @@ Then drag the **Spotlight** button to your bookmarks bar and click it on any web
 
 ![Spotlight Focus Tool circular spotlight mode example](spotlight-example-circle.png)
 
+### More examples
+
+<table>
+  <tr>
+    <td align="center"><img src="spotlight-line-visitnsw.png" alt="Spotlight line mode on Destination NSW page" width="180"><br><sub>Visit NSW — line mode</sub></td>
+    <td align="center"><img src="spotlight-circle-visitnsw.png" alt="Spotlight circle mode on Destination NSW page" width="180"><br><sub>Visit NSW — circle mode</sub></td>
+    <td align="center"><img src="spotlight-line-digital-service-standard.png" alt="Spotlight line mode on Digital Service Standard page" width="180"><br><sub>digital.gov.au — line mode</sub></td>
+    <td align="center"><img src="spotlight-circle-digital-service-standard.png" alt="Spotlight circle mode on Digital Service Standard page" width="180"><br><sub>digital.gov.au — circle mode</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="spotlight-line-vision-australia.png" alt="Spotlight line mode on Vision Australia page" width="180"><br><sub>Vision Australia — line mode</sub></td>
+    <td align="center"><img src="spotlight-circle-vision-australia.png" alt="Spotlight circle mode on Vision Australia page" width="180"><br><sub>Vision Australia — circle mode</sub></td>
+    <td align="center"><img src="spotlight-line-good-things.png" alt="Spotlight line mode on Good Things page" width="180"><br><sub>Good Things — line mode</sub></td>
+    <td align="center"><img src="spotlight-circle-good-things.png" alt="Spotlight circle mode on Good Things page" width="180"><br><sub>Good Things — circle mode</sub></td>
+  </tr>
+</table>
+
 ## What it does
 
 Spotlight Focus Tool adds a movable visual overlay to the current webpage so you can focus on either:
